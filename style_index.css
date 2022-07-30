@@ -1,0 +1,23 @@
+ @import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+
+ *{
+ 	outline: none;
+ 	font-family: 'Nunito', sans-serif;
+ 	text-decoration: none;
+ 	background-color:  #d8dbe6;
+ }
+
+ .wrapper{
+ 	transform: translate(-50%,-50%);
+ 	position: absolute;
+ 	top: 35%;
+	left: 50%;
+ }
+
+ .wrapper h1, h2, table .judul{
+ 	text-align: center;
+ }
+
+/* table .judul {
+ 	text-align: center;
+ }*/
